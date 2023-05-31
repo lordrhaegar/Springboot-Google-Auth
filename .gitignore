@@ -1,3 +1,4 @@
+src/main/resources/application.yml
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -28,6 +29,5 @@ target/
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
-!**/src/main/resources/application.yml
 ### VS Code ###
 .vscode/
